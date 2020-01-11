@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: efb474879c817b44894e26482943745d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SliderMenuCanvas: {instanceID: 0}
+  - ScrollObject: {instanceID: 0}
+  - SlidesContent: {instanceID: 0}
+  - HorizontalScrollbar: {instanceID: 0}
+  - VerticalScrollbar: {instanceID: 0}
+  - ScrollButtons: {instanceID: 0}
+  - PreviousButtonImage: {fileID: 21300000, guid: 2994a6ba9d9e6704b9068268aed990ed,
+      type: 3}
+  - NextButtonImage: {fileID: 21300000, guid: f5bbffb508dbe594898b9cdc9d48ebfa, type: 3}
+  - PreviousBlurMaterial: {instanceID: 0}
+  - ActiveBlurMaterial: {instanceID: 0}
+  - NextBlurMaterial: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

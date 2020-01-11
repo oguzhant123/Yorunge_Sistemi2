@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D44B8A76-F1A8-E384-AA6C-27B094625849}") = "Solar System Unity Project", "Assembly-CSharp.csproj", "{6BAA6E45-9289-5504-A6F3-33D51C3DA846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BAA6E45-9289-5504-A6F3-33D51C3DA846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAA6E45-9289-5504-A6F3-33D51C3DA846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAA6E45-9289-5504-A6F3-33D51C3DA846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAA6E45-9289-5504-A6F3-33D51C3DA846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
